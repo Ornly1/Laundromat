@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "machine": "washing",
+    "image": "https://www.pngbie.com/assets/images/icon/Pngbie-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9F%E0%B8%A3%E0%B8%B5-20210511235452.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 2,
+    "machine": "washing",
+    "image": "https://www.pngbie.com/assets/images/icon/Pngbie-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9F%E0%B8%A3%E0%B8%B5-20210511235452.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 3,
+    "machine": "washing",
+    "image": "https://www.pngbie.com/assets/images/icon/Pngbie-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9F%E0%B8%A3%E0%B8%B5-20210511235452.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 4,
+    "machine": "washing",
+    " image": "https://www.pngbie.com/assets/images/icon/Pngbie-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9F%E0%B8%A3%E0%B8%B5-20210511235452.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 5,
+    "machine": "dryer",
+    "image": "https: //inwfile.com/s-dp/ewv39s.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 6,
+    "machine": "dryer",
+    "image": "https: //inwfile.com/s-dp/ewv39s.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 7,
+    "machine": "dryer",
+    "image": "https: //inwfile.com/s-dp/ewv39s.png",
+    "coin": 0,
+    "status": false
+  },
+  {
+    "id": 8,
+    "machine": "dryer",
+    "image": "https: //inwfile.com/s-dp/ewv39s.png",
+    "coin": 0,
+    "status": false
+  }
+]
